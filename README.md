@@ -83,8 +83,8 @@ git merge [branch-with-changes]
 ```
 
 ## Further Reading
-https://training.github.com/downloads/github-git-cheat-sheet/
+[Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 
-https://git-scm.com/docs/gitglossary
+[Git Glossary](https://git-scm.com/docs/gitglossary)
 
 
